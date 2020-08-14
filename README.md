@@ -3,3 +3,9 @@ World wide analysis and India's Predictive- Analysis and Tracker, which track th
 
 
 [Download the respective Covid-19 Dataset from here](https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_19_india.csv) 
+
+## License @ Copyright
+
+&copy; Charchit Dhawan
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
